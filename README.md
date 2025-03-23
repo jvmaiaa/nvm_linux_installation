@@ -5,7 +5,6 @@
 This tutorial explains how to **install NVM (Node Version Manager) on Linux**.  
 If you already have **Node.js** installed, we will first remove it before proceeding with the installation.  
 
----
 
 ## 📍 1. Check if Node.js is Installed
 
