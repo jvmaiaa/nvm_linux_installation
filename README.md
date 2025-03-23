@@ -1,5 +1,7 @@
 # 📌 How to Install and Use NVM on Linux
 
+## OBS: Make sure you are using traditional bash
+
 This tutorial explains how to **install NVM (Node Version Manager) on Linux**.  
 If you already have **Node.js** installed, we will first remove it before proceeding with the installation.  
 
