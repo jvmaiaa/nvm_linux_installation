@@ -69,3 +69,8 @@ Use a version with the command:
 ```sh
 nvm use 22.14.0 # Replace with your desired version
 ```
+
+
+### To see more information about the NVM configuration, acess the official documentation in 
+
+[nmv-repository](https://github.com/nvm-sh/nvm)
